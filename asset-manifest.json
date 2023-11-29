@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ingresso-batman/static/css/main.0318ab47.css",
+    "main.js": "/ingresso-batman/static/js/main.f45fb978.js",
+    "static/media/batfan.jpg": "/ingresso-batman/static/media/batfan.b73c1aae253af42df270.jpg",
+    "static/media/The Batman - Trailer Principal.mp4": "/ingresso-batman/static/media/The Batman - Trailer Principal.bfb722a54a1df873fa4e.mp4",
+    "static/media/Zoe-Kravitz-Mulher gato.png": "/ingresso-batman/static/media/Zoe-Kravitz-Mulher gato.0e4b3f5f3b0f429f23e9.png",
+    "static/media/erike.png": "/ingresso-batman/static/media/erike.6766d9af9d73483cbc16.png",
+    "static/media/5.jpeg": "/ingresso-batman/static/media/5.ec0ba83f9e0261923941.jpeg",
+    "static/media/logobatman.png": "/ingresso-batman/static/media/logobatman.87dfb26836e2c0921523.png",
+    "static/media/10.jpeg": "/ingresso-batman/static/media/10.d8ba2ba8f28c60de9d29.jpeg",
+    "static/media/6.jpeg": "/ingresso-batman/static/media/6.5219d862e874353c9c33.jpeg",
+    "static/media/4.jpeg": "/ingresso-batman/static/media/4.e732fd73239a15b790b1.jpeg",
+    "static/media/7.jpeg": "/ingresso-batman/static/media/7.7bd39ac16d54672a0388.jpeg",
+    "static/media/9.jpeg": "/ingresso-batman/static/media/9.8811c14bc9ebcd81f5bd.jpeg",
+    "static/media/12.jpeg": "/ingresso-batman/static/media/12.dc4f23fc2aaa47367016.jpeg",
+    "static/media/8.jpeg": "/ingresso-batman/static/media/8.7a03216ddaaa1a0d19e6.jpeg",
+    "static/media/marrakashperfil.png": "/ingresso-batman/static/media/marrakashperfil.1c0378ce2b76f0e6b5dc.png",
+    "static/media/2.jpeg": "/ingresso-batman/static/media/2.d9b2178d1c805c6a9635.jpeg",
+    "static/media/1.jpeg": "/ingresso-batman/static/media/1.033d12094d2191a318a2.jpeg",
+    "static/media/11.jpeg": "/ingresso-batman/static/media/11.3dfffd0f7b506839307c.jpeg",
+    "static/media/medina.png": "/ingresso-batman/static/media/medina.9f8a62b2b32353a0abc0.png",
+    "static/media/noriak.png": "/ingresso-batman/static/media/noriak.ebf78804f265b955d139.png",
+    "static/media/3.jpeg": "/ingresso-batman/static/media/3.7bce71616f81507d126e.jpeg",
+    "static/media/Jeffrey-Wright-Gordon.jpg": "/ingresso-batman/static/media/Jeffrey-Wright-Gordon.f0f57ae243bf97105526.jpg",
+    "static/media/thumbbig-1329876.webp": "/ingresso-batman/static/media/thumbbig-1329876.535c417732bf2ec0f6fb.webp",
+    "static/media/Robert-Pattison-Batman.webp": "/ingresso-batman/static/media/Robert-Pattison-Batman.26fbb530ac93628c39d6.webp",
+    "index.html": "/ingresso-batman/index.html",
+    "main.0318ab47.css.map": "/ingresso-batman/static/css/main.0318ab47.css.map",
+    "main.f45fb978.js.map": "/ingresso-batman/static/js/main.f45fb978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0318ab47.css",
+    "static/js/main.f45fb978.js"
+  ]
+}
